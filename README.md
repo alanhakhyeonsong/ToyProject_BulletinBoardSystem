@@ -6,7 +6,7 @@ JSP를 활용하여 간단한 게시판 웹페이지를 만들어보았습니다
 ## 기술스택: JSP, bootstrap, MySQL, Apache Tomcat
 ------------
 ## 예시 이미지
-<img src="./JSP_BulletinBoardSystem/image/show.gif" width="700" height="370">
+![example](./image/show.gif)
 
 ------------
 ## 참고자료
